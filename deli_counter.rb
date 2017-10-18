@@ -1,4 +1,4 @@
-def line 
+def line
   return "The line is currently empty."
 end
 
