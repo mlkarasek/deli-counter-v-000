@@ -1,5 +1,5 @@
 def line(katz_deli)
-  return "The line is currently empty."
+  puts "The line is currently empty."
 end
 
 def take_a_number(katz_deli, name)
